@@ -1,5 +1,5 @@
-/Data-Analytics-Portfolio  
-│── /Project-1 (e.g., "Sales Analysis")  
+/My-Data_Projects 
+│── /Project-1 ("EDA-Daily-Climate-Data")  
 │    ├── dataset.csv  
 │    ├── analysis.ipynb  
 │    ├── README.md  
